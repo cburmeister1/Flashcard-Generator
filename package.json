@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js, ClozeCard.js",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cburmeister1/Flashcard-Generator.git"
+  },
+  "author": "Cody Burmeister",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cburmeister1/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/cburmeister1/Flashcard-Generator#readme"
+}

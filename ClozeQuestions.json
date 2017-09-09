@@ -1,0 +1,23 @@
+[
+	{
+		"cloze": "george washington",
+		"partial": "was the first President of the United States.",
+		"fullAnswer": "George Washington was the first president of the United States."
+	},{
+		"cloze": "1776",
+		"partial": "was the founding year of the United States.",
+		"fullAnswer": "The United States was founded in the year 1776."
+	},{
+		"cloze": "patriots",
+		"partial": "wanted the American colonies to gain their independence from Britain.",
+		"fullAnswer": "Patriots wanted to gain independence from Britain."
+	},{
+		"cloze": "paul revere",
+		"partial": "warned colonial minutemen that the British were coming.",
+		"fullAnswer": "Paul Revere warned that the British were coming."
+	},{
+		"cloze": "john hancock",
+		"partial": "was the first to sign the Declaration of Independence.",
+		"fullAnswer": "John Hancock was first to sign the Declaration of Independence."
+	}
+]
